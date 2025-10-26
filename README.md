@@ -8,9 +8,7 @@ A collection of **bite-sized Python projects and scripts**—fun, useful, and pe
 
 Each project lives in its own folder under `projects/`. Example mini-projects:
 
-- **Expense Tracker** – Track your daily expenses and get summaries.  
-- **Password Generator** – Generate strong random passwords.  
-- **Weather Fetcher** – Get current weather from the CLI.  
+- **Simple Calculator** – Calculate the sum, difference, product or quotient of two numbers.  
 
 *(More projects coming soon!)*
 
