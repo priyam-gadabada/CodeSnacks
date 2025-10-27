@@ -8,7 +8,8 @@ A collection of **bite-sized Python projects and scripts**—fun, useful, and pe
 
 Each project lives in its own folder under `projects/`. Example mini-projects:
 
-- **Simple Calculator** – Calculate the sum, difference, product or quotient of two numbers.  
+- **Simple Calculator** – Calculate the sum, difference, product or quotient of two numbers.
+- **Rock Paper Scissors** - A Simple yet cool Rock Paper Scissors game.
 
 *(More projects coming soon!)*
 
@@ -18,4 +19,4 @@ Each project lives in its own folder under `projects/`. Example mini-projects:
 
 1. Clone the repo:  
 ```bash
-git clone https://github.com/your-username/CodeSnacks.git
+git clone https://github.com/priyam-gadabada/CodeSnacks.git
