@@ -15,6 +15,7 @@ Each project lives in its own folder under `projects/`. Example mini-projects:
 - **Multiplication Table** - A program that generates the multiplication table of any integer number given.
 - **String Reverser** - Reverses a Word, Phrase, Sentence, etc. given by the user.
 - **Palindrome Number Checker** - Checks if the given number is Palindrome (spells same even after reversing) or not.
+- **Swapping of two numbers** - Swaps the two numbers given by the user.
 
 *(More projects coming soon!)*
 
